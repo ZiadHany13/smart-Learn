@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180321028190",
+    "project_id": "smartlearn-103e0",
+    "storage_bucket": "smartlearn-103e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180321028190:android:3231c5e00773c1e5170ccf",
+        "android_client_info": {
+          "package_name": "com.example.the_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9uy5LM8mrYAP_FFd1Ev4-43xYgZKGS_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
